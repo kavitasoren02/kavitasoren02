@@ -1,4 +1,6 @@
-                ## Hi there 👋 I'm Kavita
+<p align="center">
+  ## Hi there 👋 I'm Kavita
+</p>
 
 <!--
 **kavitasoren02/kavitasoren02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
