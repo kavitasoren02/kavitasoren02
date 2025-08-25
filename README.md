@@ -8,6 +8,8 @@
 
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kavita-soren-663181217/)
 
+- 👩‍💻 More about me 👉 [Portfolio](https://kavita-portfolioo.netlify.app/)
+
 
 <!--
 **kavitasoren02/kavitasoren02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
