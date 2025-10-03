@@ -10,7 +10,7 @@
 
 - 👩‍💻 More about me 👉 [Portfolio](https://kavita-portfolioo.netlify.app/)
 
-<h1 align="center">Language and Tools</h1>
+<h3 align="center">Language and Tools</h3>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -27,3 +27,14 @@
   <img src="https://degraafonline.com/wp-content/uploads/2020/05/Node-js-logo.png" alt="mssql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </p>
+
+<h3 align="center">Skills</h3>
+
+
+![C++](https://img.shields.io/badge/C++-★★★★★-yellow) 
+![Java](https://img.shields.io/badge/Java-★★★★★-yellow) 
+![HTML](https://img.shields.io/badge/HTML-★★★★☆-brightgreen) 
+![CSS](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) 
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★★★-yellow) 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-★★★★★-yellow)
+
