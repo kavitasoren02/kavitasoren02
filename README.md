@@ -10,9 +10,8 @@
 
 - 👩‍💻 More about me 👉 [Portfolio](https://kavita-portfolioo.netlify.app/)
   
-<div align="center>
-  ## 🚀 Languages and Tools
-</div>
+
+## 🚀 Languages and Tools
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
