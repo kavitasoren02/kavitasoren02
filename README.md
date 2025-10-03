@@ -30,12 +30,12 @@
 
 <h3 align="center">Skills</h3>
 
-![C++](https://img.shields.io/badge/C++-★★★★★-yellow) 
-![Java](https://img.shields.io/badge/Java-★★★★★-yellow) 
-![HTML](https://img.shields.io/badge/HTML-★★★★☆-brightgreen) 
-![CSS](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) 
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★★★-yellow) 
-![Data Structures](https://img.shields.io/badge/Data%20Structures-★★★★★-yellow)
-
-
+<p align="center">
+  ![C++](https://img.shields.io/badge/C++-★★★★★-yellow) 
+  ![Java](https://img.shields.io/badge/Java-★★★★★-yellow) 
+  ![HTML](https://img.shields.io/badge/HTML-★★★★☆-brightgreen) 
+  ![CSS](https://img.shields.io/badge/CSS-★★★★☆-brightgreen) 
+  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★★★-yellow) 
+  ![Data Structures](https://img.shields.io/badge/Data%20Structures-★★★★★-yellow)
+</p>
 
