@@ -9,7 +9,8 @@
 - 📫 How to reach me [Click here](https://www.linkedin.com/in/kavita-soren-663181217/)
 
 - 👩‍💻 More about me 👉 [Portfolio](https://kavita-portfolioo.netlify.app/)
-
+  
+##
 <h3 align="center">🚀 Languages and Tools</h3>  
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
