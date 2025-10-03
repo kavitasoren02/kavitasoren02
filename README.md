@@ -51,7 +51,7 @@
   <a href="https://leetcode.com/u/kavitasoren" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin:5px;"/>
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:kavitasoren2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px;"/>
   </a>
 </p>
