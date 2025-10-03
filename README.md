@@ -48,8 +48,8 @@
   <a href="https://github.com/kavitasoren02" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin:5px;"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin:5px;"/>
+  <a href="  <a href="https://leetcode.com/u/kavitasoren/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="margin:5px;"/>
   </a>
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin:5px;"/>
