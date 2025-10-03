@@ -10,10 +10,8 @@
 
 - 👩‍💻 More about me 👉 [Portfolio](https://kavita-portfolioo.netlify.app/)
 
-
-<p align="center">
-## 🚀 Languages and Tools
-</p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Kavita</h1>
+<h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
