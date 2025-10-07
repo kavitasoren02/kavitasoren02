@@ -35,9 +35,13 @@
   <img src="https://img.shields.io/badge/Java-★★★★★-yellow" alt="Java" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/HTML-★★★★☆-brightgreen" alt="HTML" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/CSS-★★★★☆-brightgreen" alt="CSS" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-★★★★★-yellow" alt="JavaScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/TypeScript-★★★★☆-blue" alt="TypeScript" style="margin:5px;"/>
+  <img src="https://img.shields.io/badge/React-★★★★☆-61DAFB" alt="React" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-★★★★★-yellow" alt="Problem Solving" style="margin:5px;"/>
   <img src="https://img.shields.io/badge/Data%20Structures-★★★★★-yellow" alt="Data Structures" style="margin:5px;"/>
 </p>
+
 
 <h3 align="center">Connect with me</h3>
 
